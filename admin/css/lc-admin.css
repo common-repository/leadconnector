@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#adminmenu #toplevel_page_lc-plugin div.wp-menu-image:before {
+  content: "";
+
+  margin-top: 10px;
+  margin-left: 3px;
+  background-image: url("../images/icon.png");
+  background-repeat: no-repeat;
+}

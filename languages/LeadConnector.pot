@@ -1,0 +1,80 @@
+# Copyright (C) 2020 Lead-Connector
+# This file is distributed under the same license as the Lead Connector plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lead Connector 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/LeadConnector\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-25T10:10:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: LeadConnector\n"
+
+#. Plugin Name of the plugin
+msgid "Lead Connector"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.leadconnectorhq.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin helps you to add a chat bubble to your website, which will generate a lead into your CRM"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lead-Connector"
+msgstr ""
+
+#. Chat widget title
+msgid "Chat Widget"
+msgstr ""
+
+
+#. Enable Chat widget Checkbox
+msgid "Enable Chat Widget"
+msgstr ""
+
+
+#. Location Id : input text field's label
+msgid "Location ID"
+msgstr ""
+
+
+#. Heading: input text field's label
+msgid "Heading"
+msgstr ""
+
+#. Sub Heading: input text field's label
+msgid "Sub Heading"
+msgstr ""
+
+#. Have a question: Heading input text field's default value
+msgid "Have a question?"
+msgstr ""
+
+#. Have a question: Sub Heading input text field's default value
+msgid "Enter your question below and someone from our team will get right back to you."
+msgstr ""
+
+#. Save button label
+msgid "Save"
+msgstr ""
+
+#. Text widget settings section 
+msgid "Here you can set all the options for using the Chat Widget"
+msgstr ""
+
+#. Lead connecter plugin Setting page heading
+msgid "Widget Settings"
+msgstr ""
+
+#. Lead connecter plugin Setting page heading
+msgid "API key"
+msgstr ""
+
